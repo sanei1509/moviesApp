@@ -1,0 +1,11 @@
+# api key the movieDB
+
+ =>   b0cb8c6673ceb7a06d4114317ae8a7d3
+
+ejemplo de solicitud de api -- "https://api.themoviedb.org/3/movie/550?api_key=b0cb8c6673ceb7a06d4114317ae8a7d3"
+
+ #otras apis que estaria bueno utilizar..
+        *IMDB => mucho feedback sobre pelis
+        *FILM AFFINITY => " " " ".
+        *REPELIS => solo pelis
+        *PELISplus = series y pelis 
